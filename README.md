@@ -48,7 +48,7 @@ graph deploy --studio nft-marketplace -l VERSION_NUMBER_HERE
 
 8. View your UI
 
-Back in your hardhat project [hardhat project](https://github.com/Nedick/hardhat-nft-marketplace.git), mint and list an NFT with:
+Back in your [hardhat project](https://github.com/Nedick/hardhat-nft-marketplace.git), mint and list an NFT with:
 
 ```
 yarn hardhat run scripts/mint-and-list-item.js --network rinkeby
